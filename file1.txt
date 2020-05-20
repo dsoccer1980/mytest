@@ -1,4 +1,4 @@
 Hello World!dfgdfg123
 Good evening! (from branch master)
-fghfghf
+line from user2
 line from user1
